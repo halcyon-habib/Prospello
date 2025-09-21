@@ -1,4 +1,7 @@
-# 🚀 Prospello
+<h1 align="center">
+  <img src="assets/logo.png" width="50" alt="Prospello Logo" /> 
+  Prospello
+</h1>
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-1.26-orange?logo=streamlit&logoColor=white) ![MIT License](https://img.shields.io/badge/License-MIT-green)
 
@@ -56,34 +59,36 @@
 
 ---
 
+
 ## 📸 Screenshots
 
-**Home / Upload Resume**  
+**1. Home / Upload Resume**  
 ![Home Screenshot](assets/home.png)  
 
-**Resume Preview Dashboard**  
-![Preview Screenshot](assets/preview.png)  
+**2. Resume Preview Dashboard**  
+![Preview Dashboard](assets/preview.png)  
 
-**Analysis Dashboard**  
-![Analysis Screenshot](assets/analysis.png)  
+**3. Advanced Analysis Dashboard**  
+![Analysis Dashboard](assets/analysis.png)  
 
-**Gap Analysis**  
-![Compare Screenshot](assets/compare.png) 
+**4. JD Comparison & Gap Analysis**  
+![Gap Analysis](assets/compare.png)  
 
-**Career Roadmap**  
-![Roadmap Screenshot](assets/roadmap.png) 
+**5. Personalized Career Roadmap**  
+![Career Roadmap](assets/roadmap.png)  
 
-**AI Mentor & Tracker**  
-![AI Mentor Screenshot](assets/mentor.png) 
+**6. AI Mentor Chat**  
+![AI Mentor](assets/mentor.png)  
 
-**Tracker**  
-![Tracker Screenshot](assets/tracker.png) 
+**7. Job Application Tracker**  
+![Job Tracker](assets/tracker.png)  
 
-**About**  
+**8. About**  
 ![About Screenshot](assets/about.png) 
 
-**Feedback**  
+**9. Feedback**  
 ![Feedback Screenshot](assets/feedback.png)  
+
 
 
 ---
