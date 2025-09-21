@@ -67,11 +67,17 @@
 **Analysis Dashboard**  
 ![Analysis Screenshot](assets/analysis.png)  
 
-**Gap Analysis & Roadmap**  
-![Roadmap Screenshot](assets/roadmap.png)  
+**Gap Analysis**  
+![Compare Screenshot](assets/compare.png) 
+
+**Career Roadmap**  
+![Roadmap Screenshot](assets/roadmap.png) 
 
 **AI Mentor & Tracker**  
 ![AI Mentor Screenshot](assets/mentor.png) 
+
+**Tracker**  
+![Tracker Screenshot](assets/tracker.png) 
 
 **About**  
 ![About Screenshot](assets/about.png) 
